@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Yanna-Bot",
   "version": "1.1.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Yanna-Bot By Yans",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "YanGG",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
